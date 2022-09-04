@@ -157,6 +157,10 @@ background: var(--footer-hero-background-color);
     letter-spacing: 0.03em;
 }
 
+.business-card{
+    background-color: var(--primary-white-color);
+}
+
 .section-project .text{
     font-size: 16px;
     line-height: 1.88;
